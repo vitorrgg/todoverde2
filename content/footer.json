@@ -4,20 +4,20 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
-    "title": "Páginas",
+    "list_pages": false,
+    "title": "",
     "list": []
   },
   "links_2": {
-    "list_categories": true,
-    "title": "Categorias",
+    "list_categories": false,
+    "title": "",
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
-    "phone_wpp": true,
-    "socials": true,
-    "email": true,
+    "title": "",
+    "phone_wpp": false,
+    "socials": false,
+    "email": false,
     "address": true
   },
   "stamps": [
