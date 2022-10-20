@@ -1,29 +1,20 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Conforto e estilo em uma única peça",
+    "link": "/app/#/lp/630fd28c73321213f8612ae7/checkout"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
-    "phone_wpp": true,
-    "socials": true
+    "pages": [],
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 0,
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": true,
+  "search_input": false,
   "alphabetical_order_submenu": false,
   "full_width_submenu": false
 }
